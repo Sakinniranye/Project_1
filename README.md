@@ -32,12 +32,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://submissions.us-east-1.linodeobjects.com/ios102/YNe2tMTH.gif
 
-<a href="https://www.loom.com/share/8738e9ee2b82423891e976aa9032a27d">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8738e9ee2b82423891e976aa9032a27d-with-play.gif">
-  </a>
-<!-- Replace this with whatever GIF tool you used! --> Video tool: Loom
-GIF created with ...  Loom
+<!-- Replace this with whatever GIF tool you used! --> Video tool: Kap
+GIF created with ...  Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
